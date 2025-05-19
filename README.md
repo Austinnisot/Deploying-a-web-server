@@ -4,8 +4,8 @@ THIS IS THE STEP BY STEP PROCESS OF UPLOADING FILES TO EC2
 
 1. Creat an Instance on EC2
     - Update the instace by doing "sudo apt update"
-    - Upgrade the instance by doing "sudo pat upgrade"
-2. Creat a Deploying-a-web-server reprository on GitHub
+    - Upgrade the instance by doing "sudo apt upgrade"
+2. Create a "Deploying-a-web-server" reprository on GitHub
 3. Creat the following files on Git bash by doing "touch filename":
     - index.html
     - style.css
